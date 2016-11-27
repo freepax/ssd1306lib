@@ -5,7 +5,6 @@ set(CMAKE_CURRENT_SOURCE_DIR .)
 
 set(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
 set(CMAKE_INSTALL_PREFIX /usr/)
-include_directories(.)
 
 set(SSD1306_SOURCE
   ssd1306.cpp
